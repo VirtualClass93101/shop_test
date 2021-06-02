@@ -1,5 +1,6 @@
 # shop_test
 1.進入config/dbconfig.php 修改資料庫 帳號,密碼
+2.coupon:AA123 適用爆米花 金額達100
 新增 資料庫db_shop
 語法:
 
