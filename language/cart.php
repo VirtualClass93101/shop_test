@@ -2,7 +2,7 @@
 	
 	$amountTitle = "總價";
 	$shippinFeeTitle = "運費";
-	$priceTitle = "運費";
+	$priceTitle = "金額";
 	$delBtn = "刪除";
 	$submitBtn = "送出";
 	$currency = "台幣";
