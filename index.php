@@ -77,7 +77,7 @@
         <?php }?>
     </div>
     <div class="main">
-        <!-- 列出商品 -->
+        <!-- 列出商品233 -->
         <?php while($row = mysqli_fetch_assoc($result)){?>
         <div class="grid sno_<?=$row[$bef."Sno"]?>">
             <h2><?=$row[$bef."Name"]?></h2>
